@@ -19,5 +19,5 @@ p num1 % num2
 end
 
 def square_root(num)
-p num.Math.sqrt
+p Math.sqrt(num)
 end
